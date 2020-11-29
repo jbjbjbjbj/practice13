@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "23232896748",
+    "firebase_url": "https://job-search-9eab2.firebaseio.com",
+    "project_id": "job-search-9eab2",
+    "storage_bucket": "job-search-9eab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23232896748:android:f6b7ccc8f3dbb3f1a9cfc9",
+        "android_client_info": {
+          "package_name": "com.example.jobsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23232896748-4rabd6n9aqr5tsofe6d3a82gh80dkp8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIhwKu3MyZ0OPQu8DRnO-D0WTk8EELGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23232896748-4rabd6n9aqr5tsofe6d3a82gh80dkp8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

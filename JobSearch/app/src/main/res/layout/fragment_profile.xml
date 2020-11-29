@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/profile_sign_in_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="16dp"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:text="To see profile you should sign in. Click here"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/add_cv_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add CV"
+        android:layout_margin="8dp"
+        android:background="@drawable/button"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/log_out_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log out"
+        android:layout_margin="8dp"
+        android:background="@drawable/button"
+        android:layout_gravity="center"/>
+
+
+</LinearLayout>
